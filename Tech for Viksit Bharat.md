@@ -18,8 +18,8 @@ landscape, can take a lead to position itself as a global leader,push for robust
 criticized social challenges with a potential harvest from these disruptive technologies. 
 
 
-Considering here urban chaos as a social challenge , technology - established cities like Bangalore are example to significant 
-challenges posed by an unplanned city structure,calling for an innovative and sustainable urban planning 
+Considering here urban chaos as a social challenge , Bangalore is facing certain 
+challenges: an unplanned city structure, thereby calling for an innovative and sustainable urban planning 
 solution.Bangalore’s traffic congestion highlights the urgent need for a comprehensive and futuristic urban 
 planning.The city’s unstructured chaos of growth and infrastructure has been the cause to gridlocked 
 thoroughfares.While considering it practically impossible for an existing city to change its structure , coming up here 
