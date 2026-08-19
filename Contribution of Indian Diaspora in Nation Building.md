@@ -25,8 +25,8 @@ experience of rich tapestry of life are helping India to grow indirectly.How the
 ways of depositing their high valued currency into their Indian Overseas & NRI accounts in 
 Indian banks they indirectly push our economy in bright light ensuring a sudden surplus 
 cash flow to the economy which can be used in infrastructure development such in 
-construction of bridges,railway,roadway networks and even in ensuring air connectivity 
-ensuring Indians try to appreciate their home with once in a year visit and trying to be a 
+construction of bridges, railway, roadway networks but also improve air connectivity on our side so that 
+Indians can try to appreciate their home with once in a year visit and trying to be a 
 part of the development process as the PM said in a Dubai Indian Summit 
 late last year.The already settled in Indian Diaspora who are from older generations 
 ensured their stability in India by buying plots of acres of land just in case of any emergency 
@@ -49,7 +49,7 @@ and give back to their world, it reaches hardly their home especially in our nat
 thanks to our initiatives by Prime Minister,by connecting with other 
 nations either trade,security or diplomatic-wise , India is on momentum to bring home 
 those experiences of the talented who left India by constant interactions with those 
-professionals to be back on home soil,ensuring India is on a path to development.
+professionals to be back on home soil, ensuring India is on a path to inclusive development.
 
 In conclusion once India diaspora start appreciating back their home country in every form from culture to finance , India will 
 see and set its path to a bright future with ambitious goal of being a developed nation on 
