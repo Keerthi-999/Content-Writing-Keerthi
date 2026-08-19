@@ -17,7 +17,7 @@ Whether it is a personalized ad recommendations on your phone or suggesting your
 next purchase, AI has silently been incorporated in our daily routines. It has made 
 lives easier, smoother, fast and more connected than before. As the capabilities of AI 
 increase, it is being used to solve various real-world problems. Governments are using 
-AI to identify and scale their infrastructure. A recent example is of Bangalore metro 
+AI to identify solutions to existing challenges and scale their infrastructure. A recent example is of Bangalore metro 
 operations using AI in signaling and train control systems. According to them, AI can 
 help operators determine optimum train speeds, regulate services and respond to 
 changing operating conditions using large volumes of real-time data. It can also 
