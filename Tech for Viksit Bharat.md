@@ -35,7 +35,7 @@ Going back in history , we should appreciate Soviet Union who have implemented a
 structures.These cities were built mainly focusing with a highly centralized urban planning,utility infrastructure, 
 extensive public transport networks,green spaces and public amenities and well-defined residential , economic and 
 industrial zones.This could be a source of inspiration for Indian cities to reform for a more sustainable future.By 
-integrating advanced technologies,new forming cities can avoid the pitfall ls of rigid planning while ensuring well all 
+integrating advanced technologies,new forming cities can avoid the pitfalls of rigid planning while ensuring well all 
 around development. 
 
 
