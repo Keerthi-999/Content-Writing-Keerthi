@@ -28,12 +28,12 @@ is solution for a new city in the future built using this urban planner technolo
 
 A solution for this calls for cutting - edge technologies and innovation integration for designing a city covering the 
 aspects of livability,connectivity,economic vitality,inclusivity,efficiency and sustainability.It ensures that city’s vivid 
-resources are optimally used ensuring a well life of residents. We need real-time data to analyse land usage,resource 
+resources are optimally used ensuring a well-life of residents. We need real-time data to analyse land usage,resource 
 distribution & also understand population density and dynamics in order to create the plan so that it can be used to 
 design appropriate & efficient layouts,optimize land use and cover all facilities that a city should provide. 
 Going back in history , we should appreciate Soviet Union who have implemented an organized strategy to urban city 
 structures.These cities were built mainly focusing with a highly centralized urban planning,utility infrastructure, 
-extensive public transport networks,green spaces and public amenities and we l-defined residential , economic and 
+extensive public transport networks,green spaces and public amenities and well-defined residential , economic and 
 industrial zones.This could be a source of inspiration for Indian cities to reform for a more sustainable future.By 
 integrating advanced technologies,new forming cities can avoid the pitfall ls of rigid planning while ensuring well all 
 around development. 
@@ -41,7 +41,7 @@ around development.
 
 Combining various mathematical and analytical approaches with 5G technology can create a comprehensive solution 
 for urban planning in a new city. Integration of 5G and IoT(Internet of Things) can be a revolutionizing tool for urban 
-planning.Insta ling IoT sensors can help to co lect real-time data of traffic flow,air quality & energy consumption.This 
+planning.Installing IoT sensors can help to collect real-time data of traffic flow,air quality & energy consumption.This 
 can later be transmitted via 5G networks to help in the decision making process.For instance, in transportation , a 
 means of ensuring connectivity , residents should be encouraged to use public transport rather than private vehicles 
 to reduce carbon footprint.While it’s difficult to rely on accessibility of buses in remote areas , 5G can a become a 
