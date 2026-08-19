@@ -17,7 +17,7 @@ The endless flow of Indian immigrants  setting in and settled  in the US ,UK,
 Australia,Germany and beyond , for have been endless stories of giving up everything in 
 India to enter these developed nations to have a better life ahead.There have been a lot of 
 success stories where they turn to become the highest earning,have well-paying jobs,or even positioned 
-in government jobs, while some end up to live in a state of despair. 
+in government jobs, while a few don't. 
 
 
 While in the optimistic side,where Indians have lived through the race and have got 
